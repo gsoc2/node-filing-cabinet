@@ -45,7 +45,7 @@
   "dependencies": {
     "app-module-path": "^2.2.0",
     "commander": "^10.0.1",
-    "enhanced-resolve": "^5.14.1",
+    "enhanced-resolve": "^5.15.0",
     "is-relative-path": "^1.0.2",
     "module-definition": "^5.0.1",
     "module-lookup-amd": "^8.0.5",
